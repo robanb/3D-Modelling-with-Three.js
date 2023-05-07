@@ -39,6 +39,6 @@ nav ul {
 	position: absolute;
 	font-size: 3rem;
 	left: 50%;
-	top: 30%;
-	transform: translate(-50%, 30%);
+	top: 80%;
+	transform: translate(-50%, 80%);
 }
